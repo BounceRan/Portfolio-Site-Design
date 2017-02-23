@@ -1,0 +1,10 @@
+/*Simple reset*/
+* {margin: 0; padding: 0;}
+
+body {
+	/*You can use any kind of background here.*/
+	background: rgba(0,0,0,0.8);
+}
+canvas {
+	display: block;
+}
